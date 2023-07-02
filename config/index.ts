@@ -18,3 +18,5 @@ export const API_PREFIX = '/api'
 export const LOCALE_COOKIE_NAME = 'locale'
 
 export const DEFAULT_VALUE_MAX_LEN = 48
+export const APP_ID = '2863697e-565b-4a1c-b305-d57fc8eb614d'
+export const API_KEY = 'app-amLBhOaGldQwUKQOhTADjCLP'
