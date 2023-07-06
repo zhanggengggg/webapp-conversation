@@ -1,7 +1,7 @@
 import type { AppInfo } from '@/types/app'
 export const API_URL = 'https://api.dify.ai/v1'
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: 'IPR Judgment-GPT',
   description: '',
   copyright: '',
   privacy_policy: '',
@@ -17,4 +17,4 @@ export const LOCALE_COOKIE_NAME = 'locale'
 
 export const DEFAULT_VALUE_MAX_LEN = 48
 export const APP_ID = '2863697e-565b-4a1c-b305-d57fc8eb614d'
-export const API_KEY = 'app-amLBhOaGldQwUKQOhTADjCLP'
+export const API_KEY = 'app-pdNuL2SMN9RK6g5FXHm0zi6Y'
